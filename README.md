@@ -18,3 +18,5 @@
 - RSS 2023 (Best Paper Finalist), Robot Learning on the Job: Human-in-the-Loop Autonomy and Learning During Deployment. [Website](https://ut-austin-rpl.github.io/sirius/).
 ## cross-Embodiment
 - CoRL 2024 (Oral), Scaling Cross-Embodied Learning for Manipulation, Navigation, Locomotion, and Aviation. [Website](https://crossformer-model.github.io/).
+## robot foundation model
+- CoRL 2024, Robotic Control via Embodied Chain-of-Thought Reasoning. [Website](https://embodied-cot.github.io/). [Paper](https://arxiv.org/abs/2407.08693).
