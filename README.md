@@ -16,3 +16,5 @@
 ## loco-manipulation
 ## human in the loop
 - RSS 2023 (Best Paper Finalist), Robot Learning on the Job: Human-in-the-Loop Autonomy and Learning During Deployment. [Website](https://ut-austin-rpl.github.io/sirius/).
+## cross-Embodiment
+- CoRL 2024 (Oral), Scaling Cross-Embodied Learning for Manipulation, Navigation, Locomotion, and Aviation. [Website](https://crossformer-model.github.io/).
