@@ -1,6 +1,8 @@
 # awesome-robotic-learning
 - arxiv, 2024, 09, Diffusion Policy Policy Optimization. [Paper](https://arxiv.org/abs/2409.00588).
-- RSS 2024, Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning. [Website](https://vv19.github.io/render-and-diffuse/)
+- RSS 2024, Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning. [Website](https://vv19.github.io/render-and-diffuse/).
+## imitation learning
+- CoRL 2024 (Outstanding Paper Finalist), Equivariant Diffusion Policy. [Website](https://equidiff.github.io/).
 ## whole body control
 - CoRL 2022, Deep whole-body control: Learning a unified policy for manipulation and locomotion. [Paper](https://arxiv.org/pdf/2210.10044).
 - CoRL 2024, OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning. [Website](https://omni.human2humanoid.com/).
