@@ -11,6 +11,7 @@
 ## sim to real
 - arxiv, 2025, 02, Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation. [Website](https://uan.csail.mit.edu/). [Paper](https://uan.csail.mit.edu/rsc/paper.pdf).
 - arxiv, 2025, 02, ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills. [Websute](https://agile.human2humanoid.com/). [Paper](https://arxiv.org/abs/2502.01143).
+- arxiv, 2025, 02, Rapidly Adapting Policies to the Real World via Simulation-Guided Fine-Tuning. [Paper](https://arxiv.org/abs/2502.02705).
 ## locomotion
 - RSS 2020 (Best Paper), Learning Agile Robotic Locomotion Skills by Imitating Animals. [Website](https://xbpeng.github.io/projects/Robotic_Imitation/index.html).
 ## manipulation
