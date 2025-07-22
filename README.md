@@ -4,6 +4,7 @@
 - arxiv, 2024, 09, Diffusion Policy Policy Optimization. [Paper](https://arxiv.org/abs/2409.00588).
 - RSS 2024, Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning. [Website](https://vv19.github.io/render-and-diffuse/).
 - ICML 2025, MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning. [Website](https://suninghuang19.github.io/mentor_page/).
+- ICML 2025, Flow-based Domain Randomization for Learning and Sequencing Robotic Skills. [Paper](https://arxiv.org/abs/2502.01800).
 ### imitation learning
 - CoRL 2024 (Outstanding Paper Finalist), Equivariant Diffusion Policy. [Website](https://equidiff.github.io/).
 ### whole body control
