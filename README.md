@@ -29,5 +29,7 @@
 - CoRL 2024 (Oral), Scaling Cross-Embodied Learning for Manipulation, Navigation, Locomotion, and Aviation. [Website](https://crossformer-model.github.io/).
 ### robot foundation model
 - CoRL 2024, Robotic Control via Embodied Chain-of-Thought Reasoning. [Website](https://embodied-cot.github.io/). [Paper](https://arxiv.org/abs/2407.08693).
+### average
+- arxiv, 2025, 07, LOVON: Legged Open-Vocabulary Object Navigator. [Website](https://daojiepeng.github.io/LOVON/)
 ## workshop
 - ICLR 2025, 7th Robot Learning Workshop: Towards Robots with Human-Level Abilities. [Website](https://iclr.cc/virtual/2025/workshop/23997).
