@@ -8,6 +8,9 @@
 ### imitation learning
 - CoRL 2024 (Outstanding Paper Finalist), Equivariant Diffusion Policy. [Website](https://equidiff.github.io/).
 ### humanoid
+- arxiv 2025, 08, BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion. [Paper](https://synthical.com/article/BeyondMimic%3A-From-Motion-Tracking-to-Versatile-Humanoid-Control-via-Guided-Diffusion-a42c63ab-9243-4c4e-995e-fd9642134796).
+- arxiv 2025, 06, GMT: General Motion Tracking for Humanoid Whole-Body Control. [Paper](https://arxiv.org/abs/2506.14770).
+- CoRL 2025, TWIST: Teleoperated Whole-Body Imitation System. [Website](https://yanjieze.com/TWIST/).
 - CoRL 2024, OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning. [Website](https://omni.human2humanoid.com/).
 - CoRL 2024 (Oral), VBC: Visual Whole-Body Control for Legged Loco-Manipulation. [Website](https://wholebody-b1.github.io/). [Paper](https://arxiv.org/abs/2403.16967).
 - ICRA 2025, HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots. [Website](https://hover-versatile-humanoid.github.io/). [Paper](https://arxiv.org/abs/2410.21229).
