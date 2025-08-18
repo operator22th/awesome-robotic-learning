@@ -16,6 +16,7 @@
 - ICRA 2025, HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots. [Website](https://hover-versatile-humanoid.github.io/). [Paper](https://arxiv.org/abs/2410.21229).
 - RSS 2025, ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills. [Website](https://agile.human2humanoid.com/). [Paper](https://arxiv.org/abs/2502.01143).
 - arxiv, 2025, 06, MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains. [Website](https://more-humanoid.github.io/).
+- arxiv, 2025, 07, UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots. [Website](https://yinkangning0124.github.io/Humanoid-UniTracker/).
 ### sim to real
 - arxiv, 2025, 02, Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation. [Website](https://uan.csail.mit.edu/). [Paper](https://uan.csail.mit.edu/rsc/paper.pdf).
 - ICLR 2025, Rapidly Adapting Policies to the Real World via Simulation-Guided Fine-Tuning. [Paper](https://arxiv.org/abs/2502.02705).
